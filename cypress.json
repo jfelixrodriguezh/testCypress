@@ -1,0 +1,10 @@
+{
+    "screenshotOnRunFailure": true,
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+      "reportDir": "cypress/report",
+      "charts": true,
+      "reportPageTitle": "Reporte Cypress Demo",
+      "embeddedScreenshots": true
+    }
+}
